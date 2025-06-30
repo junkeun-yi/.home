@@ -1,6 +1,7 @@
 set secure
 set mouse=a
 set ttymouse=
+set noswapfile
 
 filetype on
 "syntax off
